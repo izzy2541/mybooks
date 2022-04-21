@@ -1,0 +1,30 @@
+body {
+  background-color: black;
+}
+footer {
+  color:white
+}
+
+.listAnimation{
+  background-color: black;
+  color:white
+
+}
+
+.link-padding{
+  color:white;
+  border: none;
+}
+
+.rightNav {
+  color:white;
+  border: none;
+}
+
+.btn.btn-light{
+  color:white;
+}
+
+.w-50.btn.btn-light{
+  background-color: black;
+}

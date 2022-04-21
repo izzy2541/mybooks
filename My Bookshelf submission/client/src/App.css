@@ -1,0 +1,28 @@
+@font-face {
+    font-family: 'LeMurmure-Regular';
+    src:  url('./fonts/LeMurmure-Regular.woff') format('woff');
+  }
+
+
+
+h1 {
+    font-family: 'LeMurmure-Regular';
+    text-decoration:  none !important;
+}
+
+a {
+    text-decoration:  none !important; 
+    color: black;
+}
+
+body {
+    font-family: stratos;
+}
+
+
+.listAnimation:target {
+    height: 100px;
+    width: 250px;
+    padding: 10px;
+    margin: 25px auto 25px auto;
+ }

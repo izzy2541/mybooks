@@ -1,0 +1,64 @@
+[
+    {   "image": "https://www.booktopia.com.au/covers/big/9780571334650/0423/normal-people.jpg",
+        "title": "Normal People",
+        "author": "Sally Rooney",
+        "category": "Fiction",
+        "ISBN": "1984822179",
+        "genre": "Contemporary, Romance",
+        "about": "At school Connell and Marianne pretend not to know each other.",
+        "published": "05/08/2017",
+        "pages": "320"
+    },
+    {   
+        "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1557181911l/43923951._SY475_.jpg",
+        "title": "Such a Fun Age",
+        "author": "Kiley Reid",
+        "category": "Fiction",
+        "ISBN": "1984822179",
+        "about": "test",
+        "published": "25/11/2020",
+        "pages": "308"
+    },
+    {
+        "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1589157528l/53368423._SY475_.jpg",
+        "title": "A Lonely Girl is a Dangerous Thing",
+        "author": "Jessie Tu",
+        "category": "Fiction",
+        "ISBN": "9781760877194",
+        "about": "test",
+        "published": "02/02/2021",
+        "pages": "324"
+    },
+    {
+        "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1466865542l/18144590._SY475_.jpg",
+        "title": "The Alchemist",
+        "author": "Paulo Coelho",
+        "category": "Fiction",
+        "ISBN": "0062315005",
+        "about": "Paulo Coelho's enchanting novel has inspired a devoted following around the world. This story, dazzling in its powerful simplicity and soul-stirring wisdom, is about an Andalusian shepherd boy named Santiago, who travels from his homeland in Spain to the Egyptian desert in search of a treasure buried near the Pyramids.",
+        "published": "13/11/2019",
+        "pages":"220"
+    },
+    {
+        "image": "https://images-na.ssl-images-amazon.com/images/I/71S7zBmGwZL.jpg",
+        "title": "The Book Thief",
+        "author": "Markus Zusak",
+        "category": "Fiction",
+        "ISBN": "9781760783693",
+        "about": "test",
+        "published":"30/04/2019",
+        "pages": "592"
+    },
+    {
+        "image": "https://www.dymocks.com.au/Pages/ImageHandler.ashx?q=9780008172145&w=&h=310",
+        "title": "Eleanor Oliphant is Completely Fine",
+        "author": "Gail Honeyman",
+        "category": "Fiction",
+        "ISBN": "9780008172145",
+        "about": "test",
+        "published":"19/03/2018",
+        "pages": "400"
+    }
+    
+    
+]
